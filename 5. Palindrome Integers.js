@@ -1,5 +1,4 @@
 function palindrom(arr) {
-
     let nums = arr.toString().split(`,`);
     let isPalindrom = true;
     for (let i = 0; i < nums.length; i++) {
